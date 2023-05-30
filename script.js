@@ -8,7 +8,7 @@ function convertToBinary(x) {
         bin = bin + rem * i;
         i = i * 10;
     }
-    console.log(`Binary: ${bin}`);
+    // console.log(`Binary: ${bin}`);
 }
 
 // take input
